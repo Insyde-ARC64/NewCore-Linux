@@ -1,2 +1,3 @@
 # NewCore-Linux
 It's the lightest linux ever which is made to run on the tightest bare-metal systems with full GUI and features.
+It requires a x86 CPU and as little as 128mb ram to boot and run smoothly with full GUI and features available....
